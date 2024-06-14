@@ -1,4 +1,4 @@
-# AULA GIT E VERSIONAMENTO SANTANDER CODERS 2024/Versionamento/ Versionamento 2
+# Aula Git e Versionamento Santander Coders
 
-## Salvando novo título no git
+## Salvando alterações no git
     *comando git push
